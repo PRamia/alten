@@ -1,0 +1,14 @@
+{
+  "name": "google-automation",
+  "version": "1.0.0",
+  "description": "google automation search and take screenshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Ramia Blasco",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
